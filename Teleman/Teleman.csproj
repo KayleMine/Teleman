@@ -218,6 +218,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Core\Core.cs" />
+    <Compile Include="Core\DataGrid\TPLIST.cs" />
     <Compile Include="Core\MemoryHelper.cs" />
     <Compile Include="Core\JsonHelper.cs" />
     <Compile Include="Core\Offsets.cs" />

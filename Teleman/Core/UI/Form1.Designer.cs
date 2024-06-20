@@ -183,12 +183,12 @@
             this.DataGrid_TPLIST.DefaultCellStyle = dataGridViewCellStyle3;
             this.DataGrid_TPLIST.EnableHeadersVisualStyles = false;
             this.DataGrid_TPLIST.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            this.DataGrid_TPLIST.Location = new System.Drawing.Point(12, 48);
+            this.DataGrid_TPLIST.Location = new System.Drawing.Point(12, 41);
             this.DataGrid_TPLIST.Name = "DataGrid_TPLIST";
             this.DataGrid_TPLIST.RowHeadersVisible = false;
             this.DataGrid_TPLIST.RowHeadersWidth = 15;
             this.DataGrid_TPLIST.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.DataGrid_TPLIST.Size = new System.Drawing.Size(633, 236);
+            this.DataGrid_TPLIST.Size = new System.Drawing.Size(633, 243);
             this.DataGrid_TPLIST.TabIndex = 9;
             this.DataGrid_TPLIST.Theme = Siticone.UI.WinForms.Enums.DataGridViewPresetThemes.Default;
             this.DataGrid_TPLIST.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;

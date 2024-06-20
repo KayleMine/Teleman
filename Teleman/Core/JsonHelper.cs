@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 
 namespace Teleman.Core.JsonHelper
 {
-    public static class JsonHelper
+    public static class JH
     {
         private static string filePath = "tp_list.json";
 
