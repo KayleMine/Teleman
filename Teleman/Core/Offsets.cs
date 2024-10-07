@@ -9,7 +9,7 @@ namespace Teleman.Core
 {
     public class Offsets
     {
-        public static string ObjectManager = "0x3D921B0";
+        public static string ObjectManager = "0x47C4000";
         public static string PlayerBase = "0x130";
         public static string MoveBase = "0xB0";
         public struct Coords
