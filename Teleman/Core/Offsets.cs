@@ -9,15 +9,17 @@ namespace Teleman.Core
 {
     public class Offsets
     {
-        public static string ObjectManager = "0x47C4000";
-        public static string PlayerBase = "0x130";
-        public static string MoveBase = "0xB0";
+        public static string ObjectManager = "0x20B085C";
+        
+        public static string PlayerBase = "0x130"; // to udpate....
+    
+        public static string MoveBase = "0xA0";
         public struct Coords
         {
-            public static string x = "0x20";
-            public static string y = "0x24";
-            public static string z = "0x28";
-            public static string facing = "0x30";
+            public static string x = "0x18";
+            public static string y = "0x1C";
+            public static string z = "0x20";
+            public static string facing = "0x28";
         }
     }
 }
